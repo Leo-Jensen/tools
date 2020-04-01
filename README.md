@@ -1,2 +1,2 @@
 # tools
-for Clash and QuantumultX
+The rules for Clash and QuantumultX
