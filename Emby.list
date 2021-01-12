@@ -1,3 +1,4 @@
 HOST-KEYWORD,emby,Emby
 HOST-SUFFIX,mb3admin.com,direct
 IP-CIDR,45.137.217.217/24,Emby
+IP-CIDR,59.37.116.27/24,Emby
