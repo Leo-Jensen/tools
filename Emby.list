@@ -1,10 +1,10 @@
 HOST-KEYWORD,emby,Emby
-DOMAIN,emby.ttgg.me
-DOMAIN,emby.run
-DOMAIN,emby.yoyu.ltd
-DOMAIN,emby.ytoo.li
-DOMAIN,emby.nyancat.net
-DOMAIN,emby.nexitally.com
+DOMAIN-SUFFIX,emby.ttgg.me
+DOMAIN-SUFFIX,emby.run
+DOMAIN-SUFFIX,emby.yoyu.ltd
+DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN-SUFFIX,emby.nyancat.net
+DOMAIN-SUFFIX,emby.nexitally.com
 IP-CIDR,45.137.217.217/24,Emby
 IP-CIDR,59.37.116.27/24,Emby
 IP-CIDR,38.94.108.180/24,Emby
