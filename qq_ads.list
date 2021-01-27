@@ -112,7 +112,7 @@ host-suffix,log.tbs.qq.com,reject
 host-suffix,activeqq.3g.qq.com,reject
 host-suffix,masdk.3g.qq.com,reject
 host-suffix,pmir.3g.qq.com,reject
-host-suffix,cmshow.gtimg.cn
+host-suffix,cmshow.gtimg.cn,reject
 host-suffix,wxsnsdy.tc.qq.com,reject
 host-suffix,vlive.qqvideo.tc.qq.com,reject
 host-suffix,wxsnsdy.video.qq.com,reject
