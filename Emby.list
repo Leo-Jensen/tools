@@ -1,10 +1,8 @@
 HOST-KEYWORD,emby,Emby
+HOST-SUFFIX,emby.prprcloud.com,Emby
 HOST-SUFFIX,emby.ttgg.me,Emby
 HOST-SUFFIX,emby.run,Emby
 HOST-SUFFIX,emby.yoyu.ltd,Emby
 HOST-SUFFIX,emby.ytoo.li,Emby
 HOST-SUFFIX,emby.nyancat.net,Emby
 HOST-SUFFIX,emby.nexitally.com,Emby
-IP-CIDR,45.137.217.217/24,Emby
-IP-CIDR,59.37.116.27/24,Emby
-IP-CIDR,38.94.108.180/24,Emby
