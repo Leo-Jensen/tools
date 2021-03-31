@@ -1,3 +1,6 @@
+DOMAIN-KEYWORD,emby
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,youremby
 DOMAIN-SUFFIX,emby.ttgg.me
 DOMAIN-SUFFIX,emby.run
 DOMAIN-SUFFIX,emby.yoyu.ltd
@@ -7,4 +10,5 @@ DOMAIN-SUFFIX,emby.nexitally.com
 DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,emby.cjpc.xyz
 DOMAIN-SUFFIX,emby-aga.cjpc.xyz
-DOMAIN-KEYWORD,emby
+DOMAIN-SUFFIX,jmsooo.com,Emby
+DOMAIN-SUFFIX,youremby.gq,Emby
