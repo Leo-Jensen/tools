@@ -5,3 +5,11 @@ DOMAIN-SUFFIX,stripe.com,ChatGPT
 DOMAIN-SUFFIX,intercomcdn.com,ChatGPT
 DOMAIN-SUFFIX,stripe.network,ChatGPT
 DOMAIN-SUFFIX,stripe.com,ChatGPT
+
+DOMAIN-SUFFIX,ai.com,ChatGPT
+DOMAIN-SUFFIX,auth0.com,ChatGPT
+DOMAIN-SUFFIX,challenges.cloudflare.com,ChatGPT
+DOMAIN-SUFFIX,chatgpt.com,ChatGPT
+DOMAIN-SUFFIX,oaistatic.com,ChatGPT
+DOMAIN-SUFFIX,arkoselabs.com,ChatGPT
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,ChatGPT
