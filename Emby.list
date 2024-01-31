@@ -1,7 +1,11 @@
 HOST-KEYWORD,emby,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
+HOST-SUFFIX,emby.misakaf.org,Emby
 
+HOST-SUFFIX,stream1.misakaf.org,Emby
+HOST-SUFFIX,stream2.misakaf.org,Emby
+HOST-SUFFIX,stream3.misakaf.org,Emby
 HOST-SUFFIX,odysseyplus.site,Emby
 HOST-SUFFIX,otakudrive.life,Emby
 HOST-SUFFIX,emby.prprcloud.com,Emby
