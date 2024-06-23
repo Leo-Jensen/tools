@@ -1,12 +1,5 @@
-# NAME: OpenAI
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-25 16:06:04
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 23
-# IP-CIDR: 2
-# TOTAL: 28
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,quora.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
